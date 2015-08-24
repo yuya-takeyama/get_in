@@ -1,6 +1,6 @@
 # GetIn
 
-TODO: Write a gem description
+Get a value from nested Hash like Clojure's `get-in`.
 
 ## Installation
 
