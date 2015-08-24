@@ -1,4 +1,4 @@
-# GetIn
+# get_in
 
 Get a value from nested Hash like Clojure's `get-in`.
 
